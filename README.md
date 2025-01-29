@@ -24,6 +24,6 @@ Allows for building maximally realistic, fully custom experience
 
        1. High performance regionally-decentralized platform.
 
-       2. Hierarchical compartmentalized storage - individual combat stored in (?2 duplicating?) Repository(ies), separate Repository for each combat unit, in hierarchy.
+       2. Hierarchical compartmentalized storage - individual combat stored in (?2 duplicating?) Repository(ies), separate Repository for each combat unit, in hierarchy.  Reporting, decision making and all related information for each side stored in confidential Repositories and made available only to that side respectively, in appropriate hierarchical levels.
 
        3. Allows for subsequent replay and reproduction of events.
