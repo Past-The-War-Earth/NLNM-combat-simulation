@@ -2,6 +2,10 @@
 
 [Reasoning](https://github.com/Past-The-War-Earth/the-struggle-continues-anew.xyz)
 
+## Documents
+
+[Project documents](./docs/README.md)
+
 ## Proposed technology stack
 
 * Front End
